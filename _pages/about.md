@@ -63,10 +63,11 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 - *2024.04* Third Prize (Jiangsu Division) in Python Programming, the 15th Lanqiao Cup National Software and Information Technology Professionals Competition
 
 ## 🎓 Scholarships & Personal Honors
-- *2025.10* Third-class Outstanding Student Scholarship, Jinling Institute of Technology
+- *2025.12* Third-class Outstanding Student Scholarship (2024-2025 Academic Year), Jinling Institute of Technology
+- *2025.10* "Merit Student" Title (2024-2025 Academic Year), Jinling Institute of Technology
 - *2025.05* "Learning Pacemaker" Title, School of Software Engineering
-- *2024.10* Third-class Outstanding Student Scholarship, Jinling Institute of Technology
-- *2024.10* "Merit Student" Title of the Academic Year, Jinling Institute of Technology
+- *2024.12* Third-class Outstanding Student Scholarship (2023-2024 Academic Year), Jinling Institute of Technology
+- *2024.10* "Merit Student" Title (2023-2024 Academic Year), Jinling Institute of Technology
 - *2024.06* "Outstanding Club Member" Title, Jinling Institute of Technology
 
 ## 🛠️ Skills & Certificates
