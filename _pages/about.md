@@ -44,7 +44,7 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
-- *2022.09 - Present*, B.S. Student in Intelligent Science and Technology, School of Software Engineering, Jinling Institute of Technology (金陵科技学院)
+- *2023.09 - Present*, B.S. Student in Intelligent Science and Technology, School of Software Engineering, Jinling Institute of Technology (金陵科技学院)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
