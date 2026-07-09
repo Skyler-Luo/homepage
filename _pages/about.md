@@ -15,50 +15,49 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-我是 Skyler Luo，目前是一名研究人员/学生。我的研究兴趣包括计算机视觉、机器学习和深度学习。
+<span class='anchor' id='about-me'></span>
 
-在这里写下你的简短自我介绍，比如你目前的研究方向、工作或在读学校。
+I am Skyler Luo, currently a researcher/student. My research interests include computer vision, machine learning, and deep learning.
 
-* 📧 电子邮箱: [你的邮箱](mailto:your-email@example.com)
-* 📍 所在地: 中国
+Write a brief self-introduction here, such as your current research direction, work, or school.
 
-# 🔥 动态 (News)
-- *2026.07*: &nbsp;🎉🎉 个人主页顺利搭建完成！
-- *2026.01*: &nbsp;📢 在这里添加你的最新动态。
+# 🔥 News {: #-news}
+- *2026.07*: &nbsp;🎉🎉 Personal website has been successfully built!
+- *2026.01*: &nbsp;📢 Add your latest news here.
 
-# 📝 学术成果 (Publications) 
+# 📝 Publications {: #-publications} 
 
-<!-- 可以使用带图片的卡片布局（适合重点论文） -->
+<!-- You can use the card layout with images (recommended for selected papers) -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">会议名称 年份</div>
-      <img src='images/500x300.png' alt="论文示意图" width="100%">
+      <div class="badge">Conference Year</div>
+      <img src='images/500x300.png' alt="paper illustration" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[你的第一篇论文标题](链接地址)
+[Your First Paper Title](link)
 
-**作者姓名1**, 作者姓名2, 作者姓名3
+**Author 1**, Author 2, Author 3
 
-[**项目主页/Code**](代码或项目主页链接)
-- 简短的论文贡献介绍。
+[**Project Page / Code**](link)
+- Brief description of paper contributions.
   </div>
 </div>
 
-<!-- 也可以使用简单的列表式布局 -->
-- [你的第二篇论文标题](链接地址), 作者1, 作者2, **会议/期刊名称 年份**
+<!-- Or use a simple list layout -->
+- [Your Second Paper Title](link), Author 1, Author 2, **Conference/Journal Name Year**
 
-# 📖 教育背景 (Education)
-- *202x.09 - 202x.06*, 某某大学, 某某专业, 硕士/学士学位
-- *202x.09 - 202x.06*, 某某大学, 某某专业, 学士学位
+# 📖 Educations {: #-educations}
+- *202x.09 - 202x.06*, University Name, Major, Master/Bachelor Degree
+- *202x.09 - 202x.06*, University Name, Major, Bachelor Degree
 
-# 💻 实习/工作经历 (Experience)
-- *202x.0x - 202x.0x*, [某某公司/机构](链接), 职位/角色
+# 💻 Internships {: #-internships}
+- *202x.0x - 202x.0x*, [Company/Institution](link), Role/Position
 
-# 🎖 荣誉奖项 (Honors and Awards)
-- *202x.xx* 荣获某某奖项或奖学金
+# 🎖 Honors and Awards {: #-honors-and-awards}
+- *202x.xx* Awarded some prize or scholarship
 
-# 💬 学术报告 (Invited Talks)
-- *202x.xx*, 报告题目, 报告单位/学术会议 | [[视频/PPT]](链接)
+# 💬 Invited Talks {: #-invited-talks}
+- *202x.xx*, Talk Title, Venue/Conference | [[Video/PPT]](link)
