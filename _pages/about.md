@@ -17,59 +17,57 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Skyler Luo, currently a researcher/student. My research interests include computer vision, machine learning, and deep learning.
-
-Write a brief self-introduction here, such as your current research direction, work, or school.
+I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Technology at the School of Software Engineering, Jinling Institute of Technology. My research interests cover machine learning and deep learning, with a specific focus on computer vision.
 
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Personal website has been successfully built!
-- *2026.01*: &nbsp;📢 Add your latest news here.
+- *2026.06*: &nbsp;📜 Registration of Software Copyright "iFly Flight Booking System V1.0".
+- *2026.04*: &nbsp;🎉 Provincial innovation project "Multi-task Traffic Visual Perception Model based on Lightweight Transformer" successfully concluded!
+- *2026.01*: &nbsp;📜 Registration of Software Copyright "Transformer-based Multi-task Traffic Visual Perception System V1.0".
 
-<span class='anchor' id='-publications'></span>
+<span class='anchor' id='-research-projects'></span>
 
-# 📝 Publications 
+# 🔬 Research Projects
+- **Multi-task Traffic Visual Perception Model based on Lightweight Transformer** (基于轻量级Transformer的多任务交通视觉感知模型)
+  *Jiangsu Provincial Training Program of Innovation and Entrepreneurship for Undergraduates (Provincial Level Project)*
+  *May 2025 - Apr. 2026 (Completed)*
+  - Developed a lightweight Transformer-based model for joint multi-task perception in intelligent traffic environments.
 
-<!-- You can use the card layout with images (recommended for selected papers) -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Conference Year</div>
-      <img src='images/500x300.png' alt="paper illustration" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<span class='anchor' id='-software-copyrights'></span>
 
-[Your First Paper Title](link)
-
-**Author 1**, Author 2, Author 3
-
-[**Project Page / Code**](link)
-- Brief description of paper contributions.
-  </div>
-</div>
-
-<!-- Or use a simple list layout -->
-- [Your Second Paper Title](link), Author 1, Author 2, **Conference/Journal Name Year**
+# 💾 Software Copyrights
+- **iFly Flight Booking System V1.0** (iFly飞机订票系统 V1.0), *Reg. No: 2026.06*
+- **Transformer-based Multi-task Traffic Visual Perception System V1.0** (基于Transformer的多任务交通视觉感知系统 V1.0), *Reg. No: 2026.01*
+- **Django-based Laboratory Progress Management System V1.0** (基于Django的实验进展管理系统V1.0), *Reg. No: 2024.12*
 
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
-- *202x.09 - 202x.06*, University Name, Major, Master/Bachelor Degree
-- *202x.09 - 202x.06*, University Name, Major, Bachelor Degree
-
-<span class='anchor' id='-internships'></span>
-
-# 💻 Internships
-- *202x.0x - 202x.0x*, [Company/Institution](link), Role/Position
+- *2022.09 - Present*, B.S. Student in Intelligent Science and Technology, School of Software Engineering, Jinling Institute of Technology (金陵科技学院)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-- *202x.xx* Awarded some prize or scholarship
 
-<span class='anchor' id='-invited-talks'></span>
+## 🏆 Competition Awards
+- *2025.09* Third Prize (Jiangsu Division), Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+- *2025.08* Second Prize (National Final), RoboCom AI & Robotics Competition (RAICOM)
+- *2025.07* Second Prize (Jiangsu Division), RoboCom AI & Robotics Competition (RAICOM)
+- *2025.06* Honorable Mention, Low-altitude Industry Innovation Contest
+- *2025.05* Second Prize (Jiangsu Division) in C/C++ Programming, the 16th Lanqiao Cup National Software and Information Technology Professionals Competition
+- *2025.05* Honorable Mention (School-level Final), the 19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition
+  *(Project: "Traffic Eagle Eye: Founder of Collaborative Sensing for Urban Smart Traffic 5G Base Stations")*
+- *2024.11* Third Prize (East China Division), National College Computer Ability Challenge (NCCCU)
+- *2024.04* Third Prize (Jiangsu Division) in Python Programming, the 15th Lanqiao Cup National Software and Information Technology Professionals Competition
 
-# 💬 Invited Talks
-- *202x.xx*, Talk Title, Venue/Conference | [[Video/PPT]](link)
+## 🎓 Scholarships & Personal Honors
+- *2025.10* Third-class Outstanding Student Scholarship, Jinling Institute of Technology
+- *2025.05* "Learning Pacemaker" (学习标兵) Title, School of Software Engineering
+- *2024.10* Third-class Outstanding Student Scholarship, Jinling Institute of Technology
+- *2024.10* "Merit Student" (Three-Good Student) Title of the Academic Year, Jinling Institute of Technology
+- *2024.06* "Outstanding Club Member" (优秀社员) Title, Jinling Institute of Technology
+
+## 📜 Skills & Certificates
+- *2024.09* PAT Computer Ability Test - Programming Class B (Full Score: 100/100)
+- *2024.09* National Computer Rank Examination (NCRE) Grade 2 Certificate
