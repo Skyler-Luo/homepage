@@ -21,11 +21,15 @@ I am Skyler Luo, currently a researcher/student. My research interests include c
 
 Write a brief self-introduction here, such as your current research direction, work, or school.
 
-# 🔥 News {: #-news}
+<span class='anchor' id='-news'></span>
+
+# 🔥 News
 - *2026.07*: &nbsp;🎉🎉 Personal website has been successfully built!
 - *2026.01*: &nbsp;📢 Add your latest news here.
 
-# 📝 Publications {: #-publications} 
+<span class='anchor' id='-publications'></span>
+
+# 📝 Publications 
 
 <!-- You can use the card layout with images (recommended for selected papers) -->
 <div class='paper-box'>
@@ -49,15 +53,23 @@ Write a brief self-introduction here, such as your current research direction, w
 <!-- Or use a simple list layout -->
 - [Your Second Paper Title](link), Author 1, Author 2, **Conference/Journal Name Year**
 
-# 📖 Educations {: #-educations}
+<span class='anchor' id='-educations'></span>
+
+# 📖 Educations
 - *202x.09 - 202x.06*, University Name, Major, Master/Bachelor Degree
 - *202x.09 - 202x.06*, University Name, Major, Bachelor Degree
 
-# 💻 Internships {: #-internships}
+<span class='anchor' id='-internships'></span>
+
+# 💻 Internships
 - *202x.0x - 202x.0x*, [Company/Institution](link), Role/Position
 
-# 🎖 Honors and Awards {: #-honors-and-awards}
+<span class='anchor' id='-honors-and-awards'></span>
+
+# 🎖 Honors and Awards
 - *202x.xx* Awarded some prize or scholarship
 
-# 💬 Invited Talks {: #-invited-talks}
+<span class='anchor' id='-invited-talks'></span>
+
+# 💬 Invited Talks
 - *202x.xx*, Talk Title, Venue/Conference | [[Video/PPT]](link)
