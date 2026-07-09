@@ -64,10 +64,10 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 
 ## 🎓 Scholarships & Personal Honors
 - *2025.10* Third-class Outstanding Student Scholarship, Jinling Institute of Technology
-- *2025.05* "Learning Pacemaker" (学习标兵) Title, School of Software Engineering
+- *2025.05* "Learning Pacemaker" Title, School of Software Engineering
 - *2024.10* Third-class Outstanding Student Scholarship, Jinling Institute of Technology
-- *2024.10* "Merit Student" (Three-Good Student) Title of the Academic Year, Jinling Institute of Technology
-- *2024.06* "Outstanding Club Member" (优秀社员) Title, Jinling Institute of Technology
+- *2024.10* "Merit Student" Title of the Academic Year, Jinling Institute of Technology
+- *2024.06* "Outstanding Club Member" Title, Jinling Institute of Technology
 
 ## 🛠️ Skills & Certificates
 - *2024.09* PAT Computer Ability Test - Programming Class B (Full Score: 100/100)
