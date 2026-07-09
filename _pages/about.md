@@ -71,5 +71,5 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 - *2024.06* "Outstanding Club Member" Title, Jinling Institute of Technology
 
 ## 🛠️ Skills & Certificates
-- *2024.09* PAT Computer Ability Test - Programming Class B (Full Score: 100/100)
+- *2024.09* PAT Computer Ability Test - Programming (Basic Level) (Full Score: 100/100)
 - *2024.09* National Computer Rank Examination (NCRE) Grade 2 Certificate
