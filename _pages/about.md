@@ -37,9 +37,9 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 <span class='anchor' id='-software-copyrights'></span>
 
 # 💾 Software Copyrights
-- **iFly Flight Booking System V1.0** (iFly飞机订票系统 V1.0), *Reg. No: 2026.06*
-- **Transformer-based Multi-task Traffic Visual Perception System V1.0** (基于Transformer的多任务交通视觉感知系统 V1.0), *Reg. No: 2026.01*
-- **Django-based Laboratory Progress Management System V1.0** (基于Django的实验进展管理系统V1.0), *Reg. No: 2024.12*
+- **iFly Flight Booking System V1.0** (iFly飞机订票系统 V1.0), *Reg. No: 2026SR0667066*
+- **Transformer-based Multi-task Traffic Visual Perception System V1.0** (基于Transformer的多任务交通视觉感知系统 V1.0), *Reg. No: 2026SR0047736*
+- **Django-based Laboratory Progress Management System V1.0** (基于Django的实验进展管理系统V1.0), *Reg. No: 2024SR2157775*
 
 <span class='anchor' id='-educations'></span>
 
@@ -54,10 +54,11 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 - *2025.09* Third Prize (Jiangsu Division), Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2025.08* Second Prize (National Final), RoboCom AI & Robotics Competition (RAICOM)
 - *2025.07* Second Prize (Jiangsu Division), RoboCom AI & Robotics Competition (RAICOM)
-- *2025.06* Honorable Mention, Low-altitude Industry Innovation Contest
+- *2025.06* Honorable Mention, 2025 Low-altitude Industry Innovation Contest
+  *(Project: "Dome Vision: UAV AI-based Intelligent Inspection System for Building Facades" / 穹顶慧眼：基于无人机 AI 的建筑外立面智能巡检体系)*
 - *2025.05* Second Prize (Jiangsu Division) in C/C++ Programming, the 16th Lanqiao Cup National Software and Information Technology Professionals Competition
 - *2025.05* Honorable Mention (School-level Final), the 19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition
-  *(Project: "Traffic Eagle Eye: Founder of Collaborative Sensing for Urban Smart Traffic 5G Base Stations")*
+  *(Project: "Traffic Eagle Eye: Founder of Collaborative Sensing for Urban Smart Traffic 5G Base Stations" / 交通鹰眼-城市智慧交通5G基站协同感知奠基者)*
 - *2024.11* Third Prize (East China Division), National College Computer Ability Challenge (NCCCU)
 - *2024.04* Third Prize (Jiangsu Division) in Python Programming, the 15th Lanqiao Cup National Software and Information Technology Professionals Competition
 
