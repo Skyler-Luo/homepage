@@ -26,6 +26,11 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 - *2026.04*: &nbsp;🎉 Provincial innovation project "Multi-task Traffic Visual Perception Model based on Lightweight Transformer" successfully concluded!
 - *2026.01*: &nbsp;🎉 Registration of Software Copyright "Transformer-based Multi-task Traffic Visual Perception System V1.0".
 
+<span class='anchor' id='-educations'></span>
+
+# 📖 Educations
+- *2023.09 - Present*, B.S. Student in Intelligent Science and Technology, School of Software Engineering, Jinling Institute of Technology (金陵科技学院)
+
 <span class='anchor' id='-research-projects'></span>
 
 # 🔬 Research Projects
@@ -40,11 +45,6 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 - **iFly Flight Booking System V1.0** (iFly飞机订票系统 V1.0), *Reg. No: 2026SR0667066*
 - **Transformer-based Multi-task Traffic Visual Perception System V1.0** (基于Transformer的多任务交通视觉感知系统 V1.0), *Reg. No: 2026SR0047736*
 - **Django-based Laboratory Progress Management System V1.0** (基于Django的实验进展管理系统V1.0), *Reg. No: 2024SR2157775*
-
-<span class='anchor' id='-educations'></span>
-
-# 📖 Educations
-- *2023.09 - Present*, B.S. Student in Intelligent Science and Technology, School of Software Engineering, Jinling Institute of Technology (金陵科技学院)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
