@@ -22,6 +22,7 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 Registration of Software Copyright "Scientific Research Achievement Exhibition and Collaboration Management System V1.0".
 - *2026.06*: &nbsp;🎉 Registration of Software Copyright "iFly Flight Booking System V1.0".
 - *2026.04*: &nbsp;🎉 Provincial innovation project "Multi-task Traffic Visual Perception Model based on Lightweight Transformer" successfully concluded!
 - *2026.01*: &nbsp;🎉 Registration of Software Copyright "Transformer-based Multi-task Traffic Visual Perception System V1.0".
@@ -43,9 +44,9 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 
 # 💻 Software Copyrights
 - **Deep Learning-based Road Traffic Intelligent Visual Detection System V1.0** (基于深度学习的道路交通智能视觉检测系统 V1.0), *Under Review*
-- **Scientific Research Achievement Exhibition and Collaboration Management System V1.0** (科研成果展示与协作管理系统 V1.0), *Under Review*
 - **Deep Learning-based Intelligent Fire Detection and Security System V1.0** (基于深度学习的智能火灾检测安防系统 V1.0), *Under Review*
 - **Computer Vision-based Document Parsing and Financial Management System V1.0** (基于计算机视觉的票据解析与财务管理系统 V1.0), *Under Review*
+- **Scientific Research Achievement Exhibition and Collaboration Management System V1.0** (科研成果展示与协作管理系统 V1.0), *Reg. No: 2026SR0833789*
 - **iFly Flight Booking System V1.0** (iFly飞机订票系统 V1.0), *Reg. No: 2026SR0667066*
 - **Transformer-based Multi-task Traffic Visual Perception System V1.0** (基于Transformer的多任务交通视觉感知系统 V1.0), *Reg. No: 2026SR0047736*
 - **Django-based Laboratory Progress Management System V1.0** (基于Django的实验进展管理系统V1.0), *Reg. No: 2024SR2157775*
