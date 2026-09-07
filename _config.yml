@@ -9,6 +9,8 @@
 title                    : "Skyler Luo"
 description              : "Personal Homepage of Skyler Luo"
 repository               : "Skyler-Luo/homepage"
+baseurl                  : "/homepage"  # the subpath of your site, e.g. /blog
+url                      : "https://skyler-luo.github.io"  # the base hostname & protocol
 google_scholar_stats_use_cdn : true
 
 # Multi-language settings
