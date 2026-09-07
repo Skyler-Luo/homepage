@@ -24,27 +24,6 @@ redirect_from:
   {% assign page_lang = 'en' %}
 {% endif %}
 
-<script>
-  // Get language from URL or localStorage
-  (function() {
-    const urlParams = new URLSearchParams(window.location.search);
-    let lang = urlParams.get('lang') || localStorage.getItem('lang') || 'en';
-    
-    if (lang !== 'en' && lang !== 'zh') {
-      lang = 'en';
-    }
-    
-    localStorage.setItem('lang', lang);
-    
-    // Update URL if needed
-    if (!urlParams.get('lang')) {
-      urlParams.set('lang', lang);
-      const newUrl = window.location.pathname + '?' + urlParams.toString();
-      window.history.replaceState({}, '', newUrl);
-    }
-  })();
-</script>
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -61,13 +40,6 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 <div class="lang-zh" style="display: none;">
 我是罗晓阳（Skyler Luo），金陵科技学院软件工程学院智能科学与技术专业本科生。我的研究兴趣涵盖机器学习和深度学习，特别专注于<strong>计算机视觉</strong>。
 </div>
-
-<script>
-(function() {
-  const lang = localStorage.getItem('lang') || 'en';
-  document.querySelectorAll('.lang-' + lang).forEach(el => el.style.display = 'block');
-})();
-</script>
 
 <span class='anchor' id='-news'></span>
 
@@ -92,13 +64,6 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 </ul>
 </div>
 
-<script>
-(function() {
-  const lang = localStorage.getItem('lang') || 'en';
-  document.querySelectorAll('.lang-' + lang).forEach(el => el.style.display = 'block');
-})();
-</script>
-
 <span class='anchor' id='-educations'></span>
 
 <h1 class="lang-en" style="display: none;">📖 Educations</h1>
@@ -115,13 +80,6 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 <li><em>2023.09 - 至今</em>, 智能科学与技术 本科, 金陵科技学院软件工程学院</li>
 </ul>
 </div>
-
-<script>
-(function() {
-  const lang = localStorage.getItem('lang') || 'en';
-  document.querySelectorAll('.lang-' + lang).forEach(el => el.style.display = 'block');
-})();
-</script>
 
 <span class='anchor' id='-research-projects'></span>
 
@@ -152,13 +110,6 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 </ul>
 </div>
 
-<script>
-(function() {
-  const lang = localStorage.getItem('lang') || 'en';
-  document.querySelectorAll('.lang-' + lang).forEach(el => el.style.display = 'block');
-})();
-</script>
-
 <span class='anchor' id='-software-copyrights'></span>
 
 <h1 class="lang-en" style="display: none;">💻 Software Copyrights</h1>
@@ -187,13 +138,6 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 <li><strong>基于Django的实验进展管理系统V1.0</strong>, <em>登记号: 2024SR2157775</em></li>
 </ul>
 </div>
-
-<script>
-(function() {
-  const lang = localStorage.getItem('lang') || 'en';
-  document.querySelectorAll('.lang-' + lang).forEach(el => el.style.display = 'block');
-})();
-</script>
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -233,13 +177,6 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 </ul>
 </div>
 
-<script>
-(function() {
-  const lang = localStorage.getItem('lang') || 'en';
-  document.querySelectorAll('.lang-' + lang).forEach(el => el.style.display = 'block');
-})();
-</script>
-
 <h2 class="lang-en" style="display: none;">🎓 Scholarships & Personal Honors</h2>
 <h2 class="lang-zh" style="display: none;">🎓 奖学金与个人荣誉</h2>
 
@@ -265,13 +202,6 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 </ul>
 </div>
 
-<script>
-(function() {
-  const lang = localStorage.getItem('lang') || 'en';
-  document.querySelectorAll('.lang-' + lang).forEach(el => el.style.display = 'block');
-})();
-</script>
-
 <h2 class="lang-en" style="display: none;">🛠️ Skills & Certificates</h2>
 <h2 class="lang-zh" style="display: none;">🛠️ 技能与证书</h2>
 
@@ -289,9 +219,3 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 </ul>
 </div>
 
-<script>
-(function() {
-  const lang = localStorage.getItem('lang') || 'en';
-  document.querySelectorAll('.lang-' + lang).forEach(el => el.style.display = 'block');
-})();
-</script>
