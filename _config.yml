@@ -13,11 +13,8 @@ baseurl                  : "/homepage"  # the subpath of your site, e.g. /blog
 url                      : "https://skyler-luo.github.io"  # the base hostname & protocol
 google_scholar_stats_use_cdn : true
 
-# Multi-language settings
+# Multi-language support
 lang: en  # default language: en or zh
-languages: ["en", "zh"]
-default_lang: "en"
-exclude_from_localization: ["assets", "images"]
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
