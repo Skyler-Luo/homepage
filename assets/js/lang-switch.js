@@ -18,8 +18,14 @@
     // Hide all language-specific elements
     document.querySelectorAll('[class*="lang-"]').forEach(function(el) {
       if (el.classList.contains('lang-' + lang)) {
-        el.style.display = '';
-        el.removeAttribute('style'); // Remove inline style to use default display
+        // Show the element with appropriate display type
+        if (el.tagName === 'DIV') {
+          el.style.display = 'block';
+        } else if (el.tagName === 'SPAN') {
+          el.style.display = 'inline';
+        } else {
+          el.style.display = '';
+        }
       } else if (el.classList.contains('lang-en') || el.classList.contains('lang-zh')) {
         el.style.display = 'none';
       }

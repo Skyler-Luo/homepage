@@ -8,29 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% assign url_params = page.url | split: '?' %}
-{% assign query_string = url_params[1] | default: '' %}
-{% assign params = query_string | split: '&' %}
-{% assign page_lang = 'en' %}
-
-{% for param in params %}
-  {% assign kv = param | split: '=' %}
-  {% if kv[0] == 'lang' %}
-    {% assign page_lang = kv[1] %}
-  {% endif %}
-{% endfor %}
-
-{% if page_lang == '' or page_lang == nil %}
-  {% assign page_lang = 'en' %}
-{% endif %}
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 <div class="lang-en" style="display: none;">
@@ -38,7 +15,7 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 </div>
 
 <div class="lang-zh" style="display: none;">
-我是罗晓阳（Skyler Luo），金陵科技学院软件工程学院智能科学与技术专业本科生。我的研究兴趣涵盖机器学习和深度学习，特别专注于<strong>计算机视觉</strong>。
+我是Skyler Luo，金陵科技学院软件工程学院智能科学与技术专业本科生。我的研究兴趣涵盖机器学习和深度学习，特别专注于<strong>计算机视觉</strong>。
 </div>
 
 <span class='anchor' id='-news'></span>
@@ -212,4 +189,3 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 <li><em>2024.09</em> 全国计算机等级考试二级证书</li>
 </ul>
 </div>
-
