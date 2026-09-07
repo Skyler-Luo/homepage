@@ -6,9 +6,11 @@
   margin-left: auto;
   padding-left: 1rem;
   float: right;
+  z-index: 1001 !important;
+  position: relative !important;
 }
 
-.lang-switch-btn {
+.greedy-nav .lang-switcher .lang-switch-btn {
   padding: 0.4rem 0.75rem !important;
   font-size: 0.875rem;
   color: #666;
@@ -18,17 +20,19 @@
   transition: all 0.2s ease;
   cursor: pointer;
   background: white !important;
-  position: relative !important;
+  position: static !important;
   height: auto !important;
+  right: auto !important;
+  display: inline-block !important;
 }
 
-.lang-switch-btn:hover {
+.greedy-nav .lang-switcher .lang-switch-btn:hover {
   color: #333;
   border-color: #999;
   background: #f5f5f5 !important;
 }
 
-.lang-switch-btn.active {
+.greedy-nav .lang-switcher .lang-switch-btn.active {
   color: #fff !important;
   background: #007bff !important;
   border-color: #007bff;
@@ -36,7 +40,7 @@
   cursor: default;
 }
 
-.lang-switch-btn.active:hover {
+.greedy-nav .lang-switcher .lang-switch-btn.active:hover {
   background: #007bff !important;
   border-color: #007bff;
 }
@@ -49,7 +53,7 @@
     padding-left: 0.5rem;
   }
   
-  .lang-switch-btn {
+  .greedy-nav .lang-switcher .lang-switch-btn {
     padding: 0.3rem 0.5rem !important;
     font-size: 0.75rem;
   }
