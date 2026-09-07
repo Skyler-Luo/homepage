@@ -11,6 +11,12 @@ description              : "Personal Homepage of Skyler Luo"
 repository               : "Skyler-Luo/homepage"
 google_scholar_stats_use_cdn : true
 
+# Multi-language settings
+lang: en  # default language: en or zh
+languages: ["en", "zh"]
+default_lang: "en"
+exclude_from_localization: ["assets", "images"]
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
