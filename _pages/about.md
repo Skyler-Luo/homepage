@@ -58,9 +58,9 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 <div class="lang-zh" style="display: none;">
 <ul>
 <li><em>2026.07</em>: &nbsp;🎉 软件著作权「科研成果展示与协作管理系统 V1.0」登记成功。</li>
-<li><em>2026.06</em>: &nbsp;🎉 软件著作权「iFly飞机订票系统 V1.0」登记成功。</li>
+<li><em>2026.06</em>: &nbsp;🎉 软件著作权「iFly 飞机订票系统 V1.0」登记成功。</li>
 <li><em>2026.04</em>: &nbsp;🎉 省级大创项目「基于轻量级Transformer的多任务交通视觉感知模型」顺利结题！</li>
-<li><em>2026.01</em>: &nbsp;🎉 软件著作权「基于Transformer的多任务交通视觉感知系统 V1.0」登记成功。</li>
+<li><em>2026.01</em>: &nbsp;🎉 软件著作权「基于 Transformer 的多任务交通视觉感知系统 V1.0」登记成功。</li>
 </ul>
 </div>
 
@@ -71,7 +71,7 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 
 <div class="lang-en" style="display: none;">
 <ul>
-<li><em>2023.09 - Present</em>, B.S. Student in Intelligent Science and Technology, School of Software Engineering, Jinling Institute of Technology (金陵科技学院)</li>
+<li><em>2023.09 - Present</em>, B.S. Student in Intelligent Science and Technology, School of Software Engineering, Jinling Institute of Technology</li>
 </ul>
 </div>
 
@@ -88,7 +88,7 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 
 <div class="lang-en" style="display: none;">
 <ul>
-<li><strong>Multi-task Traffic Visual Perception Model based on Lightweight Transformer</strong> (基于轻量级Transformer的多任务交通视觉感知模型)<br>
+<li><strong>Multi-task Traffic Visual Perception Model based on Lightweight Transformer</strong><br>
 <em>Jiangsu Provincial Training Program of Innovation and Entrepreneurship for Undergraduates (Provincial Level Project)</em><br>
 <em>May 2025 - Apr. 2026 (Completed)</em>
 <ul>
@@ -117,25 +117,19 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 
 <div class="lang-en" style="display: none;">
 <ul>
-<li><strong>Deep Learning-based Road Traffic Intelligent Visual Detection System V1.0</strong> (基于深度学习的道路交通智能视觉检测系统 V1.0), <em>Under Review</em></li>
-<li><strong>Deep Learning-based Intelligent Fire Detection and Security System V1.0</strong> (基于深度学习的智能火灾检测安防系统 V1.0), <em>Under Review</em></li>
-<li><strong>Computer Vision-based Document Parsing and Financial Management System V1.0</strong> (基于计算机视觉的票据解析与财务管理系统 V1.0), <em>Under Review</em></li>
-<li><strong>Scientific Research Achievement Exhibition and Collaboration Management System V1.0</strong> (科研成果展示与协作管理系统 V1.0), <em>Reg. No: 2026SR0833789</em></li>
-<li><strong>iFly Flight Booking System V1.0</strong> (iFly飞机订票系统 V1.0), <em>Reg. No: 2026SR0667066</em></li>
-<li><strong>Transformer-based Multi-task Traffic Visual Perception System V1.0</strong> (基于Transformer的多任务交通视觉感知系统 V1.0), <em>Reg. No: 2026SR0047736</em></li>
-<li><strong>Django-based Laboratory Progress Management System V1.0</strong> (基于Django的实验进展管理系统V1.0), <em>Reg. No: 2024SR2157775</em></li>
+<li><strong>Scientific Research Achievement Exhibition and Collaboration Management System V1.0</strong>, <em>Reg. No: 2026SR0833789</em></li>
+<li><strong>iFly Flight Booking System V1.0</strong>, <em>Reg. No: 2026SR0667066</em></li>
+<li><strong>Transformer-based Multi-task Traffic Visual Perception System V1.0</strong>, <em>Reg. No: 2026SR0047736</em></li>
+<li><strong>Django-based Laboratory Progress Management System V1.0</strong>, <em>Reg. No: 2024SR2157775</em></li>
 </ul>
 </div>
 
 <div class="lang-zh" style="display: none;">
 <ul>
-<li><strong>基于深度学习的道路交通智能视觉检测系统 V1.0</strong>, <em>审核中</em></li>
-<li><strong>基于深度学习的智能火灾检测安防系统 V1.0</strong>, <em>审核中</em></li>
-<li><strong>基于计算机视觉的票据解析与财务管理系统 V1.0</strong>, <em>审核中</em></li>
 <li><strong>科研成果展示与协作管理系统 V1.0</strong>, <em>登记号: 2026SR0833789</em></li>
-<li><strong>iFly飞机订票系统 V1.0</strong>, <em>登记号: 2026SR0667066</em></li>
-<li><strong>基于Transformer的多任务交通视觉感知系统 V1.0</strong>, <em>登记号: 2026SR0047736</em></li>
-<li><strong>基于Django的实验进展管理系统V1.0</strong>, <em>登记号: 2024SR2157775</em></li>
+<li><strong>iFly 飞机订票系统 V1.0</strong>, <em>登记号: 2026SR0667066</em></li>
+<li><strong>基于 Transformer 的多任务交通视觉感知系统 V1.0</strong>, <em>登记号: 2026SR0047736</em></li>
+<li><strong>基于 Django 的实验进展管理系统 V1.0</strong>, <em>登记号: 2024SR2157775</em></li>
 </ul>
 </div>
 
@@ -153,10 +147,10 @@ I am Skyler Luo, an undergraduate student majoring in Intelligent Science and Te
 <li><em>2025.08</em> <strong>Second Prize (National Final)</strong>, RoboCom AI &amp; Robotics Competition (RAICOM)</li>
 <li><em>2025.07</em> <strong>Second Prize</strong> (Jiangsu Division), RoboCom AI &amp; Robotics Competition (RAICOM)</li>
 <li><em>2025.06</em> <strong>Honorable Mention</strong>, 2025 Low-altitude Industry Innovation Contest<br>
-<em>(Project: "Dome Vision: UAV AI-based Intelligent Inspection System for Building Facades" / 穹顶慧眼：基于无人机 AI 的建筑外立面智能巡检体系)</em></li>
+<em>(Project: "Dome Vision: UAV AI-based Intelligent Inspection System for Building Facades")</em></li>
 <li><em>2025.05</em> <strong>Second Prize</strong> (Jiangsu Division) in C/C++ Programming, the 16th Lanqiao Cup National Software and Information Technology Professionals Competition</li>
 <li><em>2025.05</em> <strong>Honorable Mention</strong> (School-level Final), the 19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition<br>
-<em>(Project: "Traffic Eagle Eye: Founder of Collaborative Sensing for Urban Smart Traffic 5G Base Stations" / 交通鹰眼-城市智慧交通5G基站协同感知奠基者)</em></li>
+<em>(Project: "Traffic Eagle Eye: Founder of Collaborative Sensing for Urban Smart Traffic 5G Base Stations")</em></li>
 <li><em>2024.11</em> <strong>Third Prize</strong> (East China Division), National College Computer Ability Challenge (NCCCU)</li>
 <li><em>2024.04</em> <strong>Third Prize</strong> (Jiangsu Division) in Python Programming, the 15th Lanqiao Cup National Software and Information Technology Professionals Competition</li>
 </ul>
