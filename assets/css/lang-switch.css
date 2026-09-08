@@ -1,7 +1,6 @@
 /* Language Switcher Styles */
 .masthead__menu-item.lang-switcher {
   /* Use table-cell display like other menu items */
-  padding-left: 0;
   white-space: nowrap;
 }
 
@@ -18,6 +17,16 @@
   font-family: inherit;
   transition: opacity 0.2s ease;
   opacity: 0.6;
+  /* Compensate for the standard greedy-nav margin to align with other items */
+  margin-left: 1rem;
+}
+
+.masthead__menu-item.lang-switcher .lang-switch-btn:first-child {
+  margin-left: 1rem;
+}
+
+.masthead__menu-item.lang-switcher .lang-switch-btn:last-child {
+  margin-right: 1rem;
 }
 
 .masthead__menu-item.lang-switcher .lang-switch-btn:hover {
