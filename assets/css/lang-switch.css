@@ -39,7 +39,8 @@
 
 .masthead__menu-item.lang-switcher .lang-separator {
   opacity: 0.4;
-  margin: 0 0.1rem;
+  margin: 0;
+  padding: 0 0.15em;
   user-select: none;
   font-size: 1rem; /* Restore font size */
   display: inline-block; /* Ensure inline display */
