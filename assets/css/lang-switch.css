@@ -1,16 +1,7 @@
 /* Ensure navigation uses flexbox for proper alignment */
 .greedy-nav .visible-links {
-<<<<<<< HEAD
   display: flex !important;
   align-items: center;
-=======
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  list-style: none;
-  padding: 0;
-  margin: 0;
->>>>>>> 6f9bd3535777c1d869e2bf37a9eaa06fa876c2e0
 }
 
 /* Language Switcher Styles - Menu Item Style */
