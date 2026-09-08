@@ -17,11 +17,10 @@
   font-family: inherit;
   transition: opacity 0.2s ease;
   opacity: 0.6;
-  /* Compensate for the standard greedy-nav margin to align with other items */
-  margin-left: 1rem;
 }
 
 .masthead__menu-item.lang-switcher .lang-switch-btn:first-child {
+  /* Align with other menu items */
   margin-left: 1rem;
 }
 
