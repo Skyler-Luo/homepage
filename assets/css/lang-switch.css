@@ -1,8 +1,8 @@
 /* Language Switcher Styles */
 .masthead__menu-item.lang-switcher {
   /* Use table-cell display like other menu items */
-  margin-left: 1rem;
-  padding-left: 0;
+  /* Mimic the spacing of a regular menu item link */
+  padding: 0.5rem 1rem;
   white-space: nowrap;
 }
 
