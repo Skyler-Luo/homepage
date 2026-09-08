@@ -1,16 +1,10 @@
-/* Ensure navigation uses flexbox for proper alignment */
-.greedy-nav .visible-links {
-  display: flex !important;
-  align-items: center;
-}
-
 /* Language Switcher Styles - Menu Item Style */
 .masthead__menu-item.lang-switcher {
   display: inline-flex;
   align-items: center;
   gap: 0.25rem;
-  margin-left: auto !important;
   padding-left: 1rem;
+  white-space: nowrap;
 }
 
 .masthead__menu-item.lang-switcher .lang-switch-btn {
@@ -52,7 +46,7 @@
 /* Responsive design for mobile */
 @media (max-width: 768px) {
   .masthead__menu-item.lang-switcher {
-    margin-left: 0.5rem !important;
+    margin-left: 0.5rem;
     padding-left: 0.5rem;
     font-size: 0.9em;
   }
