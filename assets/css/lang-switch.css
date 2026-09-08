@@ -1,13 +1,12 @@
 /* Language Switcher Styles */
 .masthead__menu-item.lang-switcher {
-  display: inline-block !important;
-  padding-left: 1rem;
+  /* Use table-cell display like other menu items */
+  padding-left: 0;
   white-space: nowrap;
-  vertical-align: baseline;
 }
 
 .masthead__menu-item.lang-switcher .lang-switch-btn {
-  display: inline-block;
+  display: inline;
   color: inherit;
   text-decoration: none;
   padding: 0;
@@ -19,7 +18,6 @@
   font-family: inherit;
   transition: opacity 0.2s ease;
   opacity: 0.6;
-  vertical-align: baseline;
 }
 
 .masthead__menu-item.lang-switcher .lang-switch-btn:hover {
@@ -38,12 +36,11 @@
 }
 
 .masthead__menu-item.lang-switcher .lang-separator {
-  display: inline-block;
+  display: inline;
   opacity: 0.4;
   padding: 0 0.15em 0 0.2em;
   margin: 0;
   user-select: none;
-  vertical-align: baseline;
 }
 
 /* Responsive design */
