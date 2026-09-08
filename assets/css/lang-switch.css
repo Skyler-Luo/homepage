@@ -1,7 +1,6 @@
 /* Language Switcher Styles */
 .masthead__menu-item.lang-switcher {
   /* Use table-cell display like other menu items */
-  margin-left: 1rem;
   padding-left: 0;
   white-space: nowrap;
 }
